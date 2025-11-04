@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-30T07:31:12 IST" name="API Testing Suite " finished-at="2025-10-30T07:31:13 IST" duration-ms="310">
+  <suite started-at="2025-11-04T11:56:00 IST" name="API Testing Suite " finished-at="2025-11-04T11:56:01 IST" duration-ms="461">
     <groups>
     </groups>
-    <test started-at="2025-10-30T07:31:12 IST" name="Parallel Tests" finished-at="2025-10-30T07:31:13 IST" duration-ms="310">
+    <test started-at="2025-11-04T11:56:00 IST" name="Parallel Tests" finished-at="2025-11-04T11:56:01 IST" duration-ms="461">
       <class name="com.qa.restAssured.JsonAssertDemo">
-        <test-method signature="exactSameJson()[pri:0, instance:com.qa.restAssured.JsonAssertDemo@17fc391b]" started-at="2025-10-30T07:31:13 IST" name="exactSameJson" finished-at="2025-10-30T07:31:13 IST" duration-ms="102" status="PASS">
+        <test-method signature="exactSameJson()[pri:0, instance:com.qa.restAssured.JsonAssertDemo@17fc391b]" started-at="2025-11-04T11:56:00 IST" name="exactSameJson" finished-at="2025-11-04T11:56:01 IST" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exactSameJson -->
